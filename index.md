@@ -10,16 +10,16 @@ js:
 ext-js:
   - //cdn.jsdelivr.net/npm/particles.js@2.0.0/particles.min.js
 ---
+<div id="particles-js">
+  <div id="header" class="cut1" markdown="1">
 
-<div id="header" class="cut1" markdown="1">
+  <div id="header-inner" markdown="1">
 
-<div id="header-inner" markdown="1">
+  # Scaling Startups {#title}
 
-# Scaling Startups {#title}
+  ## by [Brian Fogg](https://brianfogg.com/) {#subtitle}
 
-## by [Brian Fogg](https://brianfogg.com/) {#subtitle}
-
-#### United States West Coast DevOps and Systems Architecture consultancy. {#sub-subtitle}
+  #### United States West Coast DevOps and Systems Architecture consultancy. {#sub-subtitle}
 
 <a href="/scaling-startups-ai/contact" class="actionbtn">
   <span class="far fa-envelope" aria-hidden="true"></span>
@@ -27,10 +27,8 @@ ext-js:
 </a>
 {: .actionbtn-out :}
 
+  </div>
 </div>
-
-<div id="particles-js"></div>
-
 </div>
 
 <div id="main-sections">
